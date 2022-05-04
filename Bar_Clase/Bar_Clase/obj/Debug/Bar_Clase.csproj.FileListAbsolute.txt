@@ -1,0 +1,12 @@
+C:\Users\Cristian\source\repos\Bar_Clase\Bar_Clase\bin\Debug\Bar_Clase.exe.config
+C:\Users\Cristian\source\repos\Bar_Clase\Bar_Clase\bin\Debug\Bar_Clase.exe
+C:\Users\Cristian\source\repos\Bar_Clase\Bar_Clase\bin\Debug\Bar_Clase.pdb
+C:\Users\Cristian\source\repos\Bar_Clase\Bar_Clase\bin\Debug\EntityFramework.dll
+C:\Users\Cristian\source\repos\Bar_Clase\Bar_Clase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cristian\source\repos\Bar_Clase\Bar_Clase\bin\Debug\EntityFramework.xml
+C:\Users\Cristian\source\repos\Bar_Clase\Bar_Clase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cristian\source\repos\Bar_Clase\Bar_Clase\obj\Debug\Bar_Clase.csproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\Bar_Clase\Bar_Clase\obj\Debug\Bar_Clase.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\Bar_Clase\Bar_Clase\obj\Debug\Bar_Clase.csproj.CopyComplete
+C:\Users\Cristian\source\repos\Bar_Clase\Bar_Clase\obj\Debug\Bar_Clase.exe
+C:\Users\Cristian\source\repos\Bar_Clase\Bar_Clase\obj\Debug\Bar_Clase.pdb
